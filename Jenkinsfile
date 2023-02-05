@@ -11,8 +11,8 @@ pipeline {
         NEXUS_VERSION = "nexus3"
         NEXUS_PROTOCOL = "http"
         NEXUS_URL = "3.15.217.220:8081"
-        NEXUS_REPOSITORY = "utrain-nexus_pipeline"
-        NEXUS_CREDENTIAL_ID = "nexus-user-credentials"
+        NEXUS_REPOSITORY = "utrains-nexus-pipeline"
+        NEXUS_CREDENTIAL_ID = "Nexus"
 
         // imageName = "fastfood"
         // registryCredentials = "Nexus"
